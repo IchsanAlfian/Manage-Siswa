@@ -2,8 +2,10 @@
 
 @section('konten')
 
+
 <div class="d-flex">
     <h4>List Siswa</h4>
+   
     <div class="ms-auto">
         <a class="btn btn-success" href="{{ route('siswa.tambah') }}">Tambah Siswa</a>
     </div>
